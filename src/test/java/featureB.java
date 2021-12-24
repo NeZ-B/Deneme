@@ -9,4 +9,8 @@ public class featureB {
         this.value=value;
 
     }
+
+    public void setValue(int x){
+        value= x + 50;
+    }
 }
