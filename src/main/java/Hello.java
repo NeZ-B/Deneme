@@ -7,5 +7,6 @@ public class Hello {
 
         System.out.println("Local repo is already published to github");
 
+        System.out.println("new day new changes");
     }
 }
