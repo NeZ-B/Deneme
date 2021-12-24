@@ -7,5 +7,9 @@ public class Hello {
 
         System.out.println("Local repo is already published to github");
 
+        int x= 14;
+        String name="omer";
+        int year= 2017;
+        
     }
 }
