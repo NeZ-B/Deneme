@@ -3,4 +3,7 @@ public class feature3 {
     //şlfdgldfg
     //lfgdflgkdkgld
 
+    //lfşldşlgd
+    //lfgldfgldfglfd
+    //lfgldfgfdg
 }
